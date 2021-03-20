@@ -1,2 +1,2 @@
 # TechPipeline
-Various tech tidbitsd
+Various tech tidbits
